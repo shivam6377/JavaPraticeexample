@@ -1,0 +1,2 @@
+# JavaPraticeexample
+Codes of java
